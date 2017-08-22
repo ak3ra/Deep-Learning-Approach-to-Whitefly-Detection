@@ -26,10 +26,11 @@ The notebook: whitefly_detection: This shows the methods used in data creation a
   
 ### Predictions  
  The predictions are shown in the TestNCount.ipynb notebook.
+ 
 
 ### Future Works
     Use transfer learning to improve overall accuracy of the model
-    Use of modern state of the art object detection algorithms to test performance e.g using Faster RCNN, YOLO, overfeat and SSD.
+    Use of modern state of the art object detection algorithms to test performance e.g using Faster RCNN,SSD.
     Increase the dataset and generate more training data.
  
 
